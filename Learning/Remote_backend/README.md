@@ -1,7 +1,7 @@
 Prerequisite: 
 ===============
-AWS CLI configured 
-Terraform cloud account 
+AWS CLI configured, 
+Terraform cloud account ,
 Terraform version > 1.2.x
 
 Steps:
